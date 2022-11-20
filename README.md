@@ -1,3 +1,6 @@
+Link to tutorial: https://reactjs.org/tutorial/tutorial.html#overview
+<br>
+
 # Notes
 * What Is React?
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
@@ -40,9 +43,19 @@ You can learn more about shouldComponentUpdate() and how you can build pure comp
 <br>
   
 * Unlike the array push() method you might be more familiar with, the concat() method doesn’t mutate the original array, so we prefer it.
+<br>
 
+Advanced REACT Topics: 
+* https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+* https://babeljs.io/repl/#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.21&spec=false&loose=false&code_lz=DwEwlgbgBAxgNgQwM5IHIILYFMC8AiJACwHsAHUsAOwHMBaOMJAFzwD4AoKKYQgRlYDKJclWpQAMoyZQAZsQBOUAN6l5ZJADpKmLAF9gAej4cuwAK5wTXbg1YBJSswTV5mQ7c7XgtgOqEETEgAguTuYFamtgDyMBZmSGFWhhYchuAQrADc7EA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=react&prettier=false&targets=&version=7.20.4&externalPlugins=&assumptions=%7B%7D
+* https://github.com/facebook/create-react-app
+* https://reactjs.org/docs/optimizing-performance.html#examples
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+* https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/experimental-features/focus-mode
+<br>
 
-
+Tutorial on CodePen:
+* https://codepen.io/gaearon/pen/ybbQJX
 
 # Getting Started with Create React App
 
